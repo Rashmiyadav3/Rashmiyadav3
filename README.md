@@ -49,6 +49,13 @@
 ### 🔹 **Sign Language Detection System**
 A computer vision project using CNN to identify hand gestures.
 
+
+### **File Encryptor**
+Description: A GUI tool for secure AES-based file encryption.
+Technologies: Java | AES Cryptography
+Repo: https://github.com/distortion-12/FileEncryptor
+
+
 ### 🔹 **Alertify – Automation Alert System**
 Web-based SOS system for smart alerts.
 
